@@ -12,6 +12,11 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
+    "@primeuix/themes": "^1.1.1",
+    "@tailwindcss/vite": "^4.1.8",
+    "chart.js": "^4.4.9",
+    "primevue": "^4.3.4",
+    "tailwindcss": "^4.1.8",
     "vue": "^3.5.13"
   },
   "devDependencies": {
